@@ -23,10 +23,10 @@ Buscamos que las personas saquen sus conocimientos y sobretodo talentos que pued
 
 - | ☕ Aquí una tabla de los que pueden ingresar
 
-Programador (Lado de Desarrollo| Second Header 
- ----------------------------- | ------------- 
- Content Cell                  | Content Cell 
- Content Cell                  | Content Cell
+Programador (Lado de Desarrollo y Ofensivo)| Second Header 
+ ----------------------------------------- | ------------- 
+ Content Cell                              | Content Cell 
+ Content Cell                              | Content Cell
 <!---
 CodeX-Cult/CodeX-Cult is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
