@@ -1,4 +1,4 @@
-CodeX Cult<a name="CodeX"></a>
+CodeX Cult
 =================== 
   
  - - - - 
